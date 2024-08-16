@@ -174,7 +174,7 @@ params:
       link: https://read.racuwu.com
     - name: Blog API
       category: Blog
-      link: https://blog.racuwu.com
+      link: https://blog.racuwu.com/api-backend
 
     # - name: API
     #   description: The guts of the application.
