@@ -302,7 +302,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our Rotaract Club's services and if there are any interruptions, a note will be posted here. \n- Public Relations and Digital Services Avenue,\nRotaract Club of Uva Wellassa Univeristy - Badulla
+  description: We continuously monitor the status of our Rotaract Club's services and if there are any interruptions, a note will be posted here. Managed by Public Relations and Digital Services Avenue, Rotaract Club of Uva Wellassa Univeristy - Badulla
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -344,7 +344,7 @@ params:
   # down: "#e60000"
   # notice: "#24478f"
   brand: "#D51067"
-  ok: "#D51067"
+  ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
   notice: "#24478f"
