@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://racuwu.com
+baseURL: https://status.racuwu.com
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -143,12 +143,13 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: Uncategorized
+      untitled: true
     - name: Legacy Server
       description: The legacy content located here
       closed: true
     - name: Blog 
-    - name: Uncategorized
-      untitled: true
+
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -343,7 +344,7 @@ params:
   # down: "#e60000"
   # notice: "#24478f"
   brand: "#D51067"
-  ok: "#008000"
+  ok: "#D51067"
   disrupted: "#cc4400"
   down: "#e60000"
   notice: "#24478f"
