@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: RACUWU-LIVE Status
+title: RACUWU-LIVE | STATUS
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -286,7 +286,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  useLogo: false
+  useLogo: true
 
   # Where is the logo located, if one is
   # present at all?
